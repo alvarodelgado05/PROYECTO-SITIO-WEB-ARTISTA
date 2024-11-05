@@ -1,4 +1,32 @@
 h1 {
     background-color: antiquewhite;
     color: peru;
+    text-align: center;
+    position: sticky;
+}
+
+div {
+    position: sticky;
+}
+
+img {
+    height: 260px;
+}
+
+.p {
+    background-color: yellow;
+    color: black;
+    position: sticky;
+}
+
+body {
+    background-color: black;
+    color: wheat;
+}
+a {
+    color: black;
+}
+
+table {
+    columns: 1;
 }
