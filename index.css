@@ -1,32 +1,53 @@
-h1 {
-    background-color: antiquewhite;
-    color: peru;
-    text-align: center;
+#cabecera {
     position: sticky;
 }
 
-div {
+#portada {
+   /* top: 0px; */
     position: sticky;
-}
-
-img {
-    height: 260px;
-}
-
-.p {
-    background-color: yellow;
-    color: black;
-    position: sticky;
+    margin-top: 0px;
+    background-color: rgb(207, 86, 255);
+    font-family: Verdana, Tahoma, sans-serif;
+    z-index: 2;
 }
 
 body {
     background-color: black;
-    color: wheat;
-}
-a {
-    color: black;
 }
 
-table {
-    columns: 1;
+p {
+    color: rgb(207, 86, 255);
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: 25px;
+}
+
+#mora1 {
+    width: 750px;
+    margin-top: 25px;
+    position: relative;
+    left: 470px;
+}
+
+#ig {
+    height: 130px;
+}
+
+#nombretrabajo {
+    font-size: 15px;
+}
+
+#separar {
+    margin-left: 62px;
+    font-size: 40px;
+}
+
+.separar {
+    margin-left: 62px;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(76, 1, 64, 0.826);
 }

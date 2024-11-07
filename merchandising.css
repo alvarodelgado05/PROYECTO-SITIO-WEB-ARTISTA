@@ -1,0 +1,48 @@
+#cabecera {
+    position: sticky;
+}
+
+#img {
+    margin-left: 60px;
+}
+
+#portada {
+    top: 0px;
+    position: sticky;
+    margin-top: 0px;
+    background-color: rgb(207, 86, 255);
+    font-family: Verdana, Tahoma, sans-serif;
+    z-index: 2;
+}
+
+#separar {
+    margin-left: 62px;
+    font-size: 40px;
+}
+
+.separar {
+    margin-left: 62px;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(76, 1, 64, 0.826);
+}
+
+body {
+    background-color: black;
+    color: rgb(207, 86, 255);
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+div {
+    text-align: center;
+}
+
+#images {
+    width: 450px;
+    position: relative;
+    left: 615px;
+}
